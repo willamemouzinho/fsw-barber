@@ -8,7 +8,6 @@ const nextConfig = {
       },
     ],
     domains: ["assets.acme.com"],
-    dangerouslyAllowSVG: true,
   },
 };
 
