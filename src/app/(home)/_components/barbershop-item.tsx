@@ -20,7 +20,7 @@ export function BarbershopItem({ barbershop }: IBarbershopItemProps) {
       <div className="relative h-40 w-full">
         <div className="absolute left-3 top-3 z-10">
           <Badge variant="avaliation">
-            <StarIcon size={14} />
+            <StarIcon size={14} className="text-primary" />
             5,0
           </Badge>
         </div>
